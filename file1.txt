@@ -1,1 +1,1 @@
-Hey , This is my First file to be uploaded on Github written using Git Commands.
+Hey , This is my First file to be uploaded on Github written using Git Commands.This is a part of Learning Technologies.
